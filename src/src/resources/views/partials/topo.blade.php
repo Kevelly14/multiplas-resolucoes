@@ -49,8 +49,8 @@
                             <li class="menu-item-has-children">
                                 
                                
-                                    <li><a href="{{ route ('home')}}"> Sobre </a></li>
-                                    <li><a href="{{ route ('home')}}">Equipe</a></li>    
+                                    <li><a href="{{ route ('sobre')}}"> Sobre </a></li>
+                                    <li><a href="{{ route ('equipe')}}">Equipe</a></li>    
                             </li>
                             
                             <li class="menu-item-has-children">
