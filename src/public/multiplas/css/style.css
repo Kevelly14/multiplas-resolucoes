@@ -8582,7 +8582,7 @@ img {
 
 /* FOTO CEO ATUAÇÃO */
 .service-section .left-col{
-  background: url(../images/ceo.png);
+  background: url('../images/ceo.png');
 }
 
 /* FOTO CARDS */
@@ -8593,6 +8593,14 @@ img {
 /* SUCESSOS DE SUCESSO */
 .case-studies-section .case-studies-grids .grid .overlay {
     background-image: -webkit-linear-gradient(90deg, #660000 62%, #c9b38c 96%, #c9b38c 97%, #c9b38c 100%);
+}
+
+/* FAQ */
+
+.theme-accordion-s1 .panel-heading a{
+  background-color: #fff;
+  color: #262b3e;
+  box-shadow:0px 5px 15px 0px rgba(68, 68, 68, 0.1);
 }
 
 /* NOS TELEFONE */

@@ -19,7 +19,7 @@
                                 <p>Gostaria de deixar registrado o excelente trabalho prestado por essa empresa. Já estava sem esperança de resolver a suspensão da minha CNH. Muito feliz por resolver. Grata pela dedicação de cada um da equipe.</p>
                                 <div class="client-info">
                                     <div class="img-holder">
-                                        <img src="{{ asset ('multiplas/assets/images/testimonials/depo.png') }}" alt>
+                                        <img src="{{ asset ('multiplas/images/testimonials/depo.png') }}" alt>
                                     </div>
                                     <h3>Luciana Soares</h3>
                                     <span>05/06/2026</span>
@@ -30,7 +30,7 @@
                                 <p>Gostaria de deixar registrado o excelente trabalho prestado por essa empresa. Já estava sem esperança de resolver a suspensão da minha CNH. Muito feliz por resolver. Grata pela dedicação de cada um da equipe.</p>
                                 <div class="client-info">
                                     <div class="img-holder">
-                                        <img src="{{ asset ('multiplas/assets/images/testimonials/depo.png') }}" alt>
+                                        <img src="{{ asset ('multiplas/images/testimonials/depo.png') }}" alt>
                                     </div>
                                     <h3>Luciana Soares</h3>
                                     <span>05/06/2026</span>
@@ -41,7 +41,7 @@
                                 <p>Gostaria de deixar registrado o excelente trabalho prestado por essa empresa. Já estava sem esperança de resolver a suspensão da minha CNH. Muito feliz por resolver. Grata pela dedicação de cada um da equipe.</p>
                                 <div class="client-info">
                                     <div class="img-holder">
-                                        <img src="{{ asset ('multiplas/assets/images/testimonials/depo.png') }}" alt>
+                                        <img src="{{ asset ('multiplas/images/testimonials/depo.png') }}" alt>
                                     </div>
                                     <h3>Luciana Soares</h3>
                                     <span>05/06/2026</span>

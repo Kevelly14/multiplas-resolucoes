@@ -1,3 +1,16 @@
+      <!-- start page-title -->
+        <section class="page-title">
+            <div class="container">
+                <div class="row">
+                    <div class="col col-xs-12">
+                        <h2>Nossos serviços</h2>
+                        <p>Suporte jurídico para multas, Lei Seca, suspensão e cassação da CNH.</p>
+                    </div>
+                </div> <!-- end row -->
+            </div> <!-- end container -->
+        </section>        
+        <!-- end page-title -->
+
 <!-- start service-single-section -->
         <section class="service-single-section section-padding">
             <div class="container">

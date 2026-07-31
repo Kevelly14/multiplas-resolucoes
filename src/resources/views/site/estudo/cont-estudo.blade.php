@@ -1,11 +1,24 @@
-
-        <!-- start project-single-section -->
+   <!-- start page-title -->
+        <section class="page-title">
+            <div class="container">
+                <div class="row">
+                    <div class="col col-xs-12">
+                        <h2>Estudos de Caso</h2>
+                        <p>Conheça situações comuns do Direito de Trânsito e a importância de uma análise especializada em cada caso</p>
+                    </div>
+                </div> <!-- end row -->
+            </div> <!-- end container -->
+        </section>        
+        <!-- end page-title -->
+      
+      
+      <!-- start project-single-section -->
         <section class="project-single-section section-padding">
             <div class="container">
                 <div class="row">
                     <div class="col col-md-6">
                         <div class="img-holder">
-                            <img src="{{ asset ('barista/assets/images/project-single/estudo.png') }}" alt>
+                            <img src="{{ asset ('multiplas/images/project-single/estudo.png') }}" alt>
                         </div>
                     </div>
                     <div class="col col-md-6">
@@ -53,7 +66,7 @@
                             <div class="case-studies-grids">
                                 <div class="grid">
                                     <div class="img-holder">
-                                         <img src="{{ asset ('barista/assets/images/case-studies/casos.png') }}" alt>
+                                         <img src="{{ asset ('multiplas/images/case-studies/casos.png') }}" alt>
                                     </div>
                                     <div class="overlay">
                                         <div class="content">
@@ -64,7 +77,7 @@
                                 </div>
                                 <div class="grid">
                                     <div class="img-holder">
-                                         <img src="{{ asset ('barista/assets/images/case-studies/casos2.png') }}" alt>
+                                         <img src="{{ asset ('multiplas/images/case-studies/casos2.png') }}" alt>
                                     </div>
                                     <div class="overlay">
                                         <div class="content">
@@ -75,7 +88,7 @@
                                 </div>
                                 <div class="grid">
                                     <div class="img-holder">
-                                          <img src="{{ asset ('barista/assets/images/case-studies/casos3.png') }}" alt>
+                                          <img src="{{ asset ('multiplas/images/case-studies/casos3.png') }}" alt>
                                     </div>
                                     <div class="overlay">
                                         <div class="content">

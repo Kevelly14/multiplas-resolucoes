@@ -18,15 +18,14 @@
                         <div class="team-grids team-slider">
                             <div class="grid">
                                 <div class="img-holder">
-                                    <img src="assets/images/team/equipe.png" alt>
+                                    <img src="{{ asset ('multiplas/images/team/equipe.png') }}" alt>
                                 </div>
                                 <div class="details">
                                     <div class="social">
                                         <ul>
-                                            <li><a href="#"><i class="ti-facebook"></i></a></li>
-                                            <li><a href="#"><i class="ti-twitter-alt"></i></a></li>
+                                            <li><a href="#"><i class="ti-instagram"></i></a></li>
                                             <li><a href="#"><i class="ti-linkedin"></i></a></li>
-                                            <li><a href="#"><i class="ti-pinterest"></i></a></li>
+                                    
                                         </ul>
                                     </div>
                                     <h3><a href="#">Jonathan Santos</a></h3>
@@ -35,15 +34,13 @@
                             </div>
                             <div class="grid">
                                 <div class="img-holder">
-                                    <img src="{{ asset ('multiplas/assets/images/team/equipe2.png') }}" alt>
+                                    <img src="{{ asset ('multiplas/images/team/equipe2.png') }}" alt>
                                 </div>
                                 <div class="details">
                                     <div class="social">
                                         <ul>
-                                            <li><a href="#"><i class="ti-facebook"></i></a></li>
-                                            <li><a href="#"><i class="ti-twitter-alt"></i></a></li>
+                                            <li><a href="#"><i class="ti-instagram"></i></a></li>
                                             <li><a href="#"><i class="ti-linkedin"></i></a></li>
-                                            <li><a href="#"><i class="ti-pinterest"></i></a></li>
                                         </ul>
                                     </div>
                                     <h3><a href="#">Aline Barros</a></h3>
@@ -52,15 +49,13 @@
                             </div>
                             <div class="grid">
                                 <div class="img-holder">
-                                    <img src="{{ asset ('multiplas/assets/images/team/equipe3.png') }}" alt>
+                                    <img src="{{ asset ('multiplas/images/team/equipe3.png') }}" alt>
                                 </div>
                                 <div class="details">
                                     <div class="social">
                                         <ul>
-                                            <li><a href="#"><i class="ti-facebook"></i></a></li>
-                                            <li><a href="#"><i class="ti-twitter-alt"></i></a></li>
+                                            <li><a href="#"><i class="ti-instagram"></i></a></li>
                                             <li><a href="#"><i class="ti-linkedin"></i></a></li>
-                                            <li><a href="#"><i class="ti-pinterest"></i></a></li>
                                         </ul>
                                     </div>
                                     <h3><a href="#">Sergio Martins</a></h3>
@@ -69,15 +64,13 @@
                             </div>
                             <div class="grid">
                                 <div class="img-holder">
-                                    <img src="{{ asset ('multiplas/assets/images/team/equipe4.png') }}" alt>
+                                    <img src="{{ asset ('multiplas/images/team/equipe4.png') }}" alt>
                                 </div>
                                 <div class="details">
                                     <div class="social">
                                         <ul>
-                                            <li><a href="#"><i class="ti-facebook"></i></a></li>
-                                            <li><a href="#"><i class="ti-twitter-alt"></i></a></li>
+                                            <li><a href="#"><i class="ti-instagram"></i></a></li>
                                             <li><a href="#"><i class="ti-linkedin"></i></a></li>
-                                            <li><a href="#"><i class="ti-pinterest"></i></a></li>
                                         </ul>
                                     </div>
                                     <h3><a href="#">Kelly Cavalcanti</a></h3>
@@ -86,16 +79,13 @@
                             </div>
                             <div class="grid">
                                 <div class="img-holder">
-                                    <img src="{{ asset ('multiplas/assets/images/team/equipe5.png') }}" alt>
+                                    <img src="{{ asset ('multiplas/images/team/equipe5.png') }}" alt>
                                 </div>
                                 <div class="details">
                                     <div class="social">
                                         <ul>
-                                            <li><a href="#"><i class="ti-facebook"></i></a></li>
-                                            <li><a href="#"><i class="ti-twitter-alt"></i></a></li>
+                                            <li><a href="#"><i class="ti-instagram"></i></a></li>
                                             <li><a href="#"><i class="ti-linkedin"></i></a></li>
-                                            <li><a href="#"><i class="ti-pinterest"></i></a></li>
-                                        </ul>
                                     </div>
                                     <h3><a href="#">Maria Alencar</a></h3>
                                     <p>Consultora de Trânsito</p>

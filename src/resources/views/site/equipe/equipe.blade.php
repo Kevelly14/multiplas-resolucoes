@@ -3,7 +3,7 @@
 @section('content')
 
 <!-- EQUIPE -->
-@include('site.equipe.equipe')
+@include('site.equipe.cont-equipe')
 
 
 @endsection

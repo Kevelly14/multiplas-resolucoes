@@ -20,32 +20,32 @@
                     </div>
                     <div class="service-grids clearfix">
                         <div class="grid">
-                        <img class="custom-icon fi" src="assets/images/icons/driver-license.png" alt="Icon">
+                        <img class="custom-icon fi" src="{{ asset ('multiplas/images/icons/driver-license.png') }}" alt="Icon">
                             <h3><a href="#">CNH Suspensa</a></h3>
                             <p>Orientação especializada para regularizar sua habilitação.</p>
                         </div>
                         <div class="grid">
-                            <img class="custom-icon fi" src="assets/images/icons/enforcement.png" alt="Icon">
+                            <img class="custom-icon fi" src="{{ asset ('multiplas/images/icons/enforcement.png') }}" alt="Icon">
                             <h3><a href="#">Recurso de Multas</a></h3>
                             <p>Defesa e acompanhamento de recursos administrativos.</p>
                         </div>
                         <div class="grid">
-                           <img class="custom-icon fi" src="assets/images/icons/legal-document.png" alt="Icon">
+                           <img class="custom-icon fi" src="{{ asset ('multiplas/images/icons/legal-document.png') }}" alt="Icon">
                             <h3><a href="#">Regularização de Documentação</a></h3>
                             <p>Orientação sobre documentação de veículos e pendências.</p>
                         </div>
                         <div class="grid">
-                             <img class="custom-icon fi" src="assets/images/icons/report.png" alt="Icon">
+                             <img class="custom-icon fi" src="{{ asset ('multiplas/images/icons/report.png') }}" alt="Icon">
                             <h3><a href="#">Excesso de Pontos na CNH</a></h3>
                             <p>Defesa em processos decorrentes do acúmulo de pontos na carteira.</p>
                         </div>
                         <div class="grid">
-                           <img class="custom-icon fi" src="assets/images/icons/cancel.png" alt="Icon">
+                           <img class="custom-icon fi" src="{{ asset ('multiplas/images/icons/cancel.png') }}" alt="Icon">
                             <h3><a href="#">CNH Cassada</a></h3>
                             <p>Defesa e orientação em processos de cassação da CNH.</p>
                         </div>
                         <div class="grid">
-                           <img class="custom-icon fi" src="assets/images/icons/no-alcohol.png" alt="Icon">
+                           <img class="custom-icon fi" src="{{ asset ('multiplas/images/icons/no-alcohol.png') }}" alt="Icon">
                             <h3><a href="#">Lei Seca</a></h3>
                             <p>Defesa em autuações relacionadas à Lei Seca.</p>
                         </div>

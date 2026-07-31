@@ -15,10 +15,8 @@
                             <div class="social">
                                 <ul class="clearfix">
                                     <li><a href="#"><i class="ti-facebook"></i></a></li>
-                                    <li><a href="#"><i class="ti-twitter-alt"></i></a></li>
                                     <li><a href="#"><i class="ti-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="ti-pinterest"></i></a></li>
-                                    <li><a href="#"><i class="ti-skype"></i></a></li>
+                                    <li><a href="#"><i class="ti-instagram"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -35,7 +33,7 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a class="navbar-brand" href="index.html"><img src="assets/images/logo-mult.png" alt></a>
+                        <a class="navbar-brand" href="index.html"><img src="{{ asset ('multiplas/images/logo-mult.png') }}" alt></a>
                     </div>
                     <div id="navbar" class="navbar-collapse collapse navbar-right navigation-holder">
                         <button class="close-navbar"><i class="ti-close"></i></button>

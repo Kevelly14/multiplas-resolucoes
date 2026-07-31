@@ -17,7 +17,7 @@
                     </div>
                     <div class="col col-md-4">
                         <div class="mid-col">
-                            <img src="{{ asset ('multiplas/assets/images/sobre.png') }}" alt>
+                            <img src="{{ asset ('multiplas/images/sobre.png') }}" alt>
                         </div>
                     </div>
                     <div class="col col-md-4">

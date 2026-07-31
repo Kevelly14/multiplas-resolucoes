@@ -19,7 +19,7 @@
                 <div class="case-studies-grids case-studies-slider">
                     <div class="grid">
                         <div class="img-holder">
-                            <img src="{{ asset ('multiplas/assets/images/case-studies/casos.png') }}" alt>
+                            <img src="{{ asset ('multiplas/images/case-studies/casos.png') }}" alt>
                         </div>
                         <div class="overlay">
                             <div class="content">
@@ -30,7 +30,7 @@
                     </div>
                     <div class="grid">
                         <div class="img-holder">
-                            <img src="{{ asset ('multiplas/assets/images/case-studies/casos2.png') }}" alt>
+                            <img src="{{ asset ('multiplas/images/case-studies/casos2.png') }}" alt>
                         </div>
                         <div class="overlay">
                             <div class="content">
@@ -41,7 +41,7 @@
                     </div>
                     <div class="grid">
                         <div class="img-holder">
-                            <img src="{{ asset ('multiplas/assets/images/case-studies/casos3.png') }}" alt>
+                            <img src="{{ asset ('multiplas/images/case-studies/casos3.png') }}" alt>
                         </div>
                         <div class="overlay">
                             <div class="content">
@@ -52,7 +52,7 @@
                     </div>
                     <div class="grid">
                         <div class="img-holder">
-                            <img src="{{ asset ('multiplas/assets/images/case-studies/casos4.png') }}" alt>
+                            <img src="{{ asset ('multiplas/images/case-studies/casos4.png') }}" alt>
                         </div>
                         <div class="overlay">
                             <div class="content">
@@ -63,7 +63,7 @@
                     </div>
                     <div class="grid">
                         <div class="img-holder">
-                            <img src="{{ asset ('multiplas/assets/images/case-studies/casos5.pn') }}" alt>
+                            <img src="{{ asset ('multiplas/images/case-studies/casos5.png') }}" alt>
                         </div>
                         <div class="overlay">
                             <div class="content">
@@ -74,7 +74,7 @@
                     </div>
                     <div class="grid">
                         <div class="img-holder">
-                            <img src="{{ asset ('multiplas/assets/images/case-studies/casos.png') }}" alt>
+                            <img src="{{ asset ('multiplas/images/case-studies/casos.png') }}" alt>
                         </div>
                         <div class="overlay">
                             <div class="content">

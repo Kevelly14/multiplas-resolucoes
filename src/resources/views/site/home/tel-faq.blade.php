@@ -5,7 +5,7 @@
                     <div class="col col-xs-12">
                         <div class="cta-conetnt">
                             <div class="cta-logo">
-                                <img src="{{ asset ('multiplas/assets/images/logo-mult.png') }}" alt>
+                                <img src="{{ asset ('multiplas/images/logo-mult.png') }}" alt>
                             </div>
                             <h5>Nos telefone</h5>
                             <h2>(11) 94512-1384</h2>
@@ -41,7 +41,7 @@
                                 <div class="panel-heading">
                                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse-1" aria-expanded="true">Recebi uma notificação de suspensão da CNH. O que devo fazer?</a>
                                 </div>
-                                <div id="collapse-1" class="panel-collapse collapse in">
+                                <div id="collapse-1" class="panel-collapse collapse">
                                     <div class="panel-body">
                                         <p>Ao receber a notificação, é importante analisar o processo e os prazos disponíveis para apresentação de defesa. Cada caso possui particularidades que podem ser avaliadas por um advogado especializado. </p>
                                     </div>
