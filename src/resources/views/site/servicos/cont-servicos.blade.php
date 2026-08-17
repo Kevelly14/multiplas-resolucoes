@@ -20,7 +20,7 @@
                             <h2>CNH Suspensa</h2>
                             <p>A suspensão da CNH pode gerar dificuldades no dia a dia, impactando trabalho, estudos e deslocamentos. Nosso escritório oferece acompanhamento especializado em processos administrativos de suspensão da carteira de habilitação, analisando cada caso de forma individual para identificar as melhores estratégias de defesa.</p>
                             <div class="service-pic">
-                                <img src="assets/images/service-single/servicos.png" alt>
+                                <img src="{{ asset ('multiplas/images/service-single/servicos.png') }}" alt>
                             </div>
                             <p>Atuamos em todas as etapas do procedimento, buscando garantir que os direitos do condutor sejam respeitados e que todas as possibilidades legais sejam avaliadas.</p>
 

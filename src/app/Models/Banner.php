@@ -15,6 +15,7 @@ Class Banner extends Model{
     protected $fillable = [
         'imagem_banner',
         'titulo_banner',
+        'subtitulo_banner',
         'status_banner',
     ];
 

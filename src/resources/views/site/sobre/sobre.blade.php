@@ -3,18 +3,18 @@
 @section('content')
 
 <!-- SOBRE -->
-@include('site.sobre.sobre')
+@include('site.sobre.sobre-cont')
 
 <!-- LINHA TEMPO -->
 @include('site.sobre.linha-tempo')
 
 <!-- DEPOIMENTOS -->
-@include('site.sobre.depoimento')
+@include('site.home.depoimento')
 
 <!-- TELEFONE -->
-@include('site.sobre.tel-sobre')
+@include('site.sobre.sobre-tel')
 
 <!-- EQUIPE -->
-@include('site.sobre.equipe')
+@include('site.home.equipe')
 
 @endsection

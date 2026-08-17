@@ -13,15 +13,15 @@ class HomeController extends Controller{
 
 
     //Busca a lista de Banner para exibie na Home (View)
-    //$listaBanner = Banner::where('status_banner', 'ATIVO')->inRandomOrder()->get();
+    $listaBanner = Banner::where('status_banner', 'ATIVO')->inRandomOrder()->get();
     // inRandomOrder deixa o id aleatorio
 
-    //dd($listaBanner); 
+   //dd($listaBanner); 
     //var_dump($listaBanner);
 
 
 
-    return view('site.home.home');
+    return view('site.home.home',  compact('listaBanner'));
 
     }
 
